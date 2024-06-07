@@ -1,0 +1,17 @@
+Boiler plate code :- the code that is needed or skeleton of a language to start code is boiler plate code
+
+SEO - (search engine optimization)
+    -> relevance
+    -> authority 
+    -> backlinks
+    -> user experience
+    -> content quality
+    -> optimization 
+
+HTML - (hypertext markup language)
+
+tags-
+    -> titleTag - it is to set the heading for a website.
+    -> linkTag - to connect/link a external css or javascript 
+    -> head - it is the place where all the meta tags are available 
+    ->body - it is the place where all the content of a website is present 
