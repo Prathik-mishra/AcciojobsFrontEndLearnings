@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rectangle{
+    background-color: rgba(252, 175, 2, 1);
+    width: 1728px;
+    height: 86px;
+}
+
+.startup{
+    width: 127px;
+    height: 39px;
+    margin-left: 58px;
+    display: flex inline;
+}
+
+#nav-list{
+    list-style: none;
+    display: flex inline;
+    padding-top: 30px;
+    max-width: fit-content;
+    margin-left: auto;
+}
+
+li{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.mainbody{
+    background-color: black;
+    width: 1728px;
+    height: 140vh;
+}
+
+.landingpage{
+    color: white;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.landingparagraph{
+    color: white;
+    height: 238px;
+    width: 917px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
